@@ -1,0 +1,19 @@
+CSS 포함방법
+
+1. inline
+
+ex) <div style="color:red"></div>
+
+2) embed
+
+ex)
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <!-- CSS -->
+    <style>
+        p color:red
+        </st
