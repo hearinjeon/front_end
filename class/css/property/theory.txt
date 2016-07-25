@@ -1,19 +1,4 @@
-CSS 器窃规过
+css 器窃规过
 
-1. inline
-
-ex) <div style="color:red"></div>
-
-2) embed
-
-ex)
-
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-    <meta charset="UTF-8">
-    <title></title>
-    <!-- CSS -->
-    <style>
-        p color:red
-        </st
+1.inline
+<
