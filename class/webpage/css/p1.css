@@ -1,0 +1,49 @@
+.header{
+    width:1903px;
+    height:33px;
+    top:0;
+    left:0;
+    background:#01aeb2;
+}
+
+.logo{
+    position:absolute;
+    top:0;
+    left:50%;
+    margin-left:-84px;
+}
+
+.nav{
+    width:1903px;
+    height:84px;
+    background:#fff;
+    position:fixed;
+    left:0;
+}
+
+.util-wrap{
+    float:right;
+}
+
+.util-left{
+    float:left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.clearfix{
+    content:"";
+    display:block;
+    clear:both;
+}
